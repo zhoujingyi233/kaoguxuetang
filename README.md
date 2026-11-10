@@ -1,12 +1,18 @@
 # 考古学堂 · 在线学习入口
 
-GitHub Pages 上的轻量在线入口。点击“进入考古学堂”前往现有完整网站：
+GitHub Pages 发布本仓库的轻量入口页：
+https://zhoujingyi233.github.io/kaoguxuetang/
 
+入口直接前往当前完整课程页面：
+https://kaoguxuetang-zhoujingyi233.netlify.app/study/
+
+账号学习空间仍在原站：
 https://archaeology-academy-29722.flowyluck15.chatgpt.site
 
-原网站继续承担私人访问验证、网站账号注册登录、课程、器物图鉴与互动练习。学习记录仍按原方式保存在浏览器，可导出备份。
+本网站把器物图鉴与期末复习分开呈现。复习包含名词解释、解答题、论述与分析，背诵卡片可逐条主动揭示并记录进度。学习进度保存在本地浏览器。
 
-此仓库仅包含入口页面，不包含原始学习文档、器物手册图片、账号、密码、Cookie、数据库、密钥或个人学习记录。页面无需 JavaScript、外部字体或第三方图片。
+## 自动更新
 
-部署：GitHub 仓库 Settings → Pages → Deploy from a branch → main / (root)。
+修改并提交 `main` 分支后，GitHub Pages 会自动重新发布入口页面。课程主页面由 Netlify 托管，课程内容更新后在 Netlify 发布即可通过入口访问最新版本。GitHub Pages 本身提供静态页面，不运行账号后台或服务器端数据库。
 
+本仓库只包含公开入口页面，不包含原始学习文档、账号密码、Cookie、数据库密钥或个人学习记录。
